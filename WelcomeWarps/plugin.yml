@@ -6,14 +6,14 @@ author: tastybento
 commands:
     wwarp:
        description: Show Welcome Warp Signs
-       aliases: wwarps
+       aliases: pwarps
        usage:  |
-             /wwarp to list warps, /wwarp <name> to warp 
-    wwadmin:
+             /pwarp to list warps, /pwarp <name> to warp 
+    pwadmin:
         description: Admin Command for Warp Signs
-        aliases: wadmin
+        aliases: padmin
         usage:  |
-             /wadmin to list help
+             /padmin to list help
 permissions:    
   welcomewarpsigns.add:
      description: Permission to add warp signs
